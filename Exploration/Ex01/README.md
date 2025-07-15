@@ -36,7 +36,7 @@
 
 
 # 회고(참고 링크 및 코드 개선)
-**project1(Diabetes)***
+**project1(Diabetes)**
 목표 : MSE를 3000 이하로 낮추기! 시도
 
 - [x] LearningRate값 조정 (0.001 -> 0.3)
